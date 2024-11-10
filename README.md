@@ -9,7 +9,7 @@ I've been working in AI/ML for 4+ years, after switching career from Finance. I 
 * 🌍  Open to Remote Work Opportunities.
 * 🖥️  See my portfolio at [alihussainia.github.io](http://alihussainia.github.io)
 * 🤝  I'm open to collaborating on MLOps projects.
-* ✉️  You can contact me at [malirashid1994@gmail.com](mailto:malirashid1994@gmail.com)
+* ✉️  You can contact me at [malirashid1994@gmail.com](mailto:muhammad.ali.005@student.uni.lu)
 * 🚀  I'm currently working on enhancing DSA via LeetCode.
 * 🧠  I'm learning CI/CD for Machine Learning.
 * ⚡  I've done 2 master's degrees in CS as well as Finance.
